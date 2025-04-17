@@ -57,6 +57,30 @@ function App() {
         { name: 'Abacaxi Grelhado', time: '15 min', rating: 4.8 }
       ]
     },
+    { 
+      name: 'Maça ',
+      calories: 52,
+      category: 'Frutas',
+      nutrients: {
+        carbs: 13.8,
+        protein: 0.3,
+        fat: 0.2,
+        fiber: 2.4,
+        vitaminC: 4.6,
+        potassium: 107,
+        magnesium: 5,
+        iron: 0.12,
+        calcium: 6,
+        omega3: 0.1,
+        omega6: 0.43,
+      },
+      benefits: ['Rico em antioxidantes', 'Alto teor de fibras', 'Ajuda na digestão', 'Contribui para a saúde do coração'],
+      recipes: [
+        { name: 'Bolo de Maçã com Aveia', time: '50 min', rating: 4.5 },
+        { name: 'Torta de Maçã Rústica', time: '50 min', rating: 4.7 },
+        { name: 'Maçã do Amor', time: '45 min', rating: 4.6 }
+      ]
+    },
     { name: 'Ameixa', calories: 46 }, { name: 'Banana', calories: 89 },
     { name: 'Caju', calories: 43 }, { name: 'Carambola', calories: 31 },
     { name: 'Damasco', calories: 48 }, { name: 'Figo', calories: 74 },
