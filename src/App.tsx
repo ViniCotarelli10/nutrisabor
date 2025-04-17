@@ -154,7 +154,7 @@ function App() {
       { name: 'Caju Assado', time: '20 min', rating: 4.8 }
     ]
   }
-];
+
     { name: 'Ameixa', calories: 46 }, { name: 'Banana', calories: 89 },
     { name: 'Caju', calories: 43 }, { name: 'Carambola', calories: 31 },
     { name: 'Damasco', calories: 48 }, { name: 'Figo', calories: 74 },
