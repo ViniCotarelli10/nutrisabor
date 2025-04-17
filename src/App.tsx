@@ -153,7 +153,7 @@ function App() {
       { name: 'Suco de Caju', time: '10 min', rating: 4.7 },
       { name: 'Caju Assado', time: '20 min', rating: 4.8 }
     ]
-  }
+  },
 
     { name: 'Ameixa', calories: 46 }, { name: 'Banana', calories: 89 },
     { name: 'Caju', calories: 43 }, { name: 'Carambola', calories: 31 },
