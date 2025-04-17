@@ -155,8 +155,8 @@ function App() {
     ]
   },
 
-    { name: 'Ameixa', calories: 46 }, { name: 'Banana', calories: 89 },
-    { name: 'Caju', calories: 43 }, { name: 'Carambola', calories: 31 },
+    
+    { name: 'Carambola', calories: 31 },
     { name: 'Damasco', calories: 48 }, { name: 'Figo', calories: 74 },
     { name: 'Goiaba', calories: 68 }, { name: 'Kiwi', calories: 61 },
    
