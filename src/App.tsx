@@ -81,6 +81,80 @@ function App() {
         { name: 'Maçã do Amor', time: '45 min', rating: 4.6 }
       ]
     },
+
+    { 
+    name: 'Banana',
+    calories: 89,
+    category: 'Frutas',
+    nutrients: {
+      carbs: 22.8,
+      protein: 1.1,
+      fat: 0.3,
+      fiber: 2.6,
+      vitaminC: 8.7,
+      potassium: 358,
+      magnesium: 27,
+      iron: 0.26,
+      calcium: 5,
+      omega3: 0.03,
+      omega6: 0.1,
+    },
+    benefits: ['Fonte de potássio', 'Melhora a saúde intestinal', 'Dá energia', 'Ajuda a controlar a pressão arterial'],
+    recipes: [
+      { name: 'Bolo de Banana Integral', time: '40 min', rating: 4.6 },
+      { name: 'Smoothie de Banana', time: '10 min', rating: 4.7 },
+      { name: 'Pão de Banana', time: '50 min', rating: 4.8 }
+    ]
+  },
+  { 
+    name: 'Ameixa',
+    calories: 46,
+    category: 'Frutas',
+    nutrients: {
+      carbs: 11.4,
+      protein: 0.7,
+      fat: 0.3,
+      fiber: 1.4,
+      vitaminC: 9.5,
+      potassium: 157,
+      magnesium: 4,
+      iron: 0.17,
+      calcium: 6,
+      omega3: 0.01,
+      omega6: 0.02,
+    },
+    benefits: ['Ajuda na digestão', 'Rica em antioxidantes', 'Melhora a saúde cardiovascular', 'Ajuda a controlar o colesterol'],
+    recipes: [
+      { name: 'Gelatina de Ameixa', time: '2 horas', rating: 4.5 },
+      { name: 'Suco de Ameixa', time: '15 min', rating: 4.6 },
+      { name: 'Torta de Ameixa', time: '60 min', rating: 4.7 }
+    ]
+  },
+  { 
+    name: 'Caju',
+    calories: 53,
+    category: 'Frutas',
+    nutrients: {
+      carbs: 12.4,
+      protein: 1.4,
+      fat: 0.9,
+      fiber: 1.3,
+      vitaminC: 220,
+      potassium: 263,
+      magnesium: 29,
+      iron: 0.44,
+      calcium: 11,
+      omega3: 0.04,
+      omega6: 0.18,
+    },
+    benefits: ['Alta concentração de vitamina C', 'Ajuda na saúde do sistema imunológico', 'Auxilia na digestão', 'Previne o envelhecimento precoce'],
+    recipes: [
+      { name: 'Bolo de Caju', time: '45 min', rating: 4.6 },
+      { name: 'Suco de Caju', time: '10 min', rating: 4.7 },
+      { name: 'Caju Assado', time: '20 min', rating: 4.8 }
+    ]
+  }
+];
     { name: 'Ameixa', calories: 46 }, { name: 'Banana', calories: 89 },
     { name: 'Caju', calories: 43 }, { name: 'Carambola', calories: 31 },
     { name: 'Damasco', calories: 48 }, { name: 'Figo', calories: 74 },
