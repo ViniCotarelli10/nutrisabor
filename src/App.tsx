@@ -57,8 +57,8 @@ function App() {
         { name: 'Abacaxi Grelhado', time: '15 min', rating: 4.8 }
       ]
     },
-    { 
-      name: 'Maça ',
+      { 
+      name: 'Maçã',
       calories: 52,
       category: 'Frutas',
       nutrients: {
@@ -85,6 +85,7 @@ function App() {
     { name: 'Caju', calories: 43 }, { name: 'Carambola', calories: 31 },
     { name: 'Damasco', calories: 48 }, { name: 'Figo', calories: 74 },
     { name: 'Goiaba', calories: 68 }, { name: 'Kiwi', calories: 61 },
+    { name: 'maçã', calories: 61 },
     
     // Vegetais
     { 
